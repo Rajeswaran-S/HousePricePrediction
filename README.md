@@ -87,3 +87,13 @@ pip install streamlit pandas numpy plotly scikit-learn
 streamlit run house_prediction.py
  ```
 This system provides an excellent balance between functionality and visual appeal, making it both useful and engaging for users exploring real estate options.
+
+
+![Picture18](https://github.com/user-attachments/assets/2d2aa21a-4461-49fd-ac72-17a9ef986356)
+![Picture21](https://github.com/user-attachments/assets/06c5a4e8-2e6e-4fa3-b5e5-360019269122)
+
+
+
+
+
+
